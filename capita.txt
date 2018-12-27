@@ -1,0 +1,8 @@
+Hello there, I am trying to check something here.
+
+This is the second time I am writing this line.
+
+
+This is the 3rd line after hard reset head.
+
+This is the 4th line after rename the master to myprac.
