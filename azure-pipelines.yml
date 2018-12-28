@@ -34,7 +34,7 @@ steps:
     majorVersion: '$(Major)'
     minorVersion: '$(Minor)'
     patchVersion: '$(Patch)'
-    packageToPack: '**/*.cs'
+    packageToPack: '**/*.csproj'
     restoreSolution: '$(solution)'
 
 
