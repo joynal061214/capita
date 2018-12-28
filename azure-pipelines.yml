@@ -27,7 +27,7 @@ steps:
     majorVersion: '$(Major)'
     minorVersion: '$(Minor)'
     patchVersion: '$(Patch)'
-    packageToPack: '**/*.csproj'
+    packageToPack: '**/*.cs'
     restoreSolution: '$(solution)'
 
 - task: VSBuild@1
